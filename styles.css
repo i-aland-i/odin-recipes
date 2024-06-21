@@ -1,11 +1,16 @@
 /* styles.css */
 * {
-    outline: 2px solid red;
+    font-size: 30px;
+    text-decoration: none;
+    list-style-type: none;
 }
 
 div {
     color: white;
     background-color: black;
+}
+body ul li {
+    margin: 30px 0;
 }
 
 p {
